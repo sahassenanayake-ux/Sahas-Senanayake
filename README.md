@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome!
 
-![Banner Image](https://via.placeholder.com/800x200.png?text=Your+Space+Banner+Image+Here)
+![Banner Image]("C:\Users\sahas\Downloads\Telegram Desktop\photo_2026-08-28_00-00-11.jpg")
 
 Hello! My name is Sahas. I am an engineering undergraduate at the Faculty of Engineering, University of Ruhuna. 🎓
 
